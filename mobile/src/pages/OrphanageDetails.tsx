@@ -238,7 +238,7 @@ const styles = StyleSheet.create({
   },
 
   scheduleTextRed: {
-    fontFamily: '#FF669D',
+    color: '#FF669D',
   },
 
   scheduleTextBlue: {
