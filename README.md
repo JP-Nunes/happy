@@ -20,12 +20,22 @@
     * Finally, run "yarn dev:server", this will start the server;
     
 * ## Web
+
+  <p align="center">
+    <img width="660" height="420" src="/web/src/images/landing-page.png">
+  </p>
+  
   * ### To run:
     * Go to the web root folder and run "yarn", wait untill the downloads are completed;
     * Run "yarn start", the web project will open;
     * If you want to test the web and server together, just leave the server running while using the web app;
     
 * ## Mobile
+
+  <p align="center">
+    <img width="200" height="450" src="/mobile/src/images/landing-mobile.png">
+  </p>
+
   * ### To run on your Smartphone:
     * Download the Expo App;
     * Go to the mobile root folder and run "yarn", wait untill the downloads are completed;
