@@ -22,7 +22,7 @@
 * ## Web
 
   <p align="center">
-    <img width="660" height="420" src="/web/src/images/landing-page.png">
+    <img width="720" height="420" src="/web/src/images/landing-page.png">
   </p>
   
   * ### To run:
