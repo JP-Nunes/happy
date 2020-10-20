@@ -1,3 +1,4 @@
 database.sqlite
 uploads/*.jpeg
 node_modules
+.env
